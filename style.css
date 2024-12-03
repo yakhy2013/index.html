@@ -1,0 +1,89 @@
+.h1 {
+  background-color: cornflowerblue;
+  color: blueviolet;
+  border-radius: 1000px;
+  border: 2px solid red;
+  font-size: 25px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.sp {
+  background-color: yellow;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.i {
+  color: red;
+}
+
+.h12 {
+  color: green;
+}
+
+.h13 {
+  background-color: yellow;
+  color: green;
+  text-align: center;
+}
+
+.lion1 {
+  height: 500px;
+  width: 950px;
+}
+
+.lion2 {
+  height: 500px;
+  width: 900px;
+}
+
+.h14 {
+  background-color: yellow;
+  color: green;
+  text-align: center;
+}
+
+iframe {
+  width: 100%;
+  height: 900px;
+}
+
+.p2 {
+  color: green;
+}
+
+.bt {
+  background-color: royalblue;
+}
+
+.h15 {
+  background-color: yellow;
+  color: green;
+  text-align: center;
+}
+
+.th {
+  background-color: green;
+  width: 100px;
+}
+
+.th2 {
+  background-color: blue;
+  width: 700px;
+}
+
+
+.all{
+     background-color: red;
+  width: 100px; 
+  text-align: center;
+}
+
+
+.all2{
+      background-color: black;
+  width: 700px;
+  color: white;
+  text-align: center;
+}
